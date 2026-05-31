@@ -66,7 +66,7 @@ My production work is in private/commercial codebases, but here's the scope:
 ### 🎓 Education
 
 **B.Sc. in Computer Science & Engineering**
-**Daffodil International University (DIU)**, Dhaka
+Daffodil International University (DIU), Dhaka
 
 ---
 
