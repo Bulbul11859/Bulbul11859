@@ -58,7 +58,7 @@ My production work is in private/commercial codebases, but here's the scope:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[demo ghorer bazar (https://demo.gb-erp.com)]** | A demo full-stack app showcasing .NET microservices + Angular. | .NET, Angular, SQL |
+| **[demo ghorer bazar] (https://demo.gb-erp.com)]** | A demo full-stack app showcasing .NET microservices + Angular. | .NET, Angular, SQL |
 
 > Add 1–2 personal/demo projects here that recruiters can actually open and run — see my note below on why this matters.
 
