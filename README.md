@@ -8,7 +8,7 @@ I'm a software engineer with **3+ years** of experience architecting and deliver
 - 🏗️ I work across the stack: **ASP.NET Core APIs, Angular, MS SQL / MySQL**, and cloud-native tooling
 - ⚡ I specialize in **performance optimization, system-loss debugging, and architecture from the ground up**
 - 💬 Ask me about **.NET, microservices, clean architecture, CQRS, and SQL optimization**
-- 📫 [LinkedIn](https://linkedin.com/in/bulbul-rahman) · **[your email]**
+- 📫 [LinkedIn](https://linkedin.com/in/bulbul-rahman) · **[bulbul.11859@gmail.com]**
 - 📍 Dhaka, Bangladesh
 
 ---
